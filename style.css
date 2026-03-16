@@ -88,3 +88,12 @@ left:15px;
 .mobileControls{
 margin-top:10px;
 }
+.road{
+position:absolute;
+width:100%;
+height:200%;
+background-image:url("images/road.jpg");
+background-size:cover;
+background-repeat:repeat-y;
+animation:roadMove 2s linear infinite;
+}
