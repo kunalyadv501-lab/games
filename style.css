@@ -97,3 +97,15 @@ background-size:cover;
 background-repeat:repeat-y;
 animation:roadMove 2s linear infinite;
 }
+body{
+margin:0;
+overflow:hidden;
+background:black;
+}
+
+.gameArea{
+width:100vw;
+height:100vh;
+position:relative;
+overflow:hidden;
+}
