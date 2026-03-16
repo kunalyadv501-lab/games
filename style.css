@@ -109,3 +109,15 @@ height:100vh;
 position:relative;
 overflow:hidden;
 }
+.playerCar{
+width:90px;
+}
+
+.enemy{
+width:90px;
+}
+.playerCar{
+width:100px;
+height:auto;
+}
+background-image:url("images/road.jpg");
